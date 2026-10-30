@@ -317,5 +317,5 @@ a {
 
 .features{
     padding: 100px 8%;
-    background-color: var(--surface-color);
+    background-color: var();
 }
